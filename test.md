@@ -1,3 +1,3 @@
-Just some cats! 
+Just some cats! .
 
 ![CATS](./cats.webp)
